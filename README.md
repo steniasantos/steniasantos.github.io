@@ -2,7 +2,7 @@
 
 Este repositório contém materiais e recursos para as **Trilhas de Aprendizagem** da Vitru Academy. A trilha é organizada em módulos que cobrem desde conceitos básicos até técnicas avançadas de análise de dados.
 
-A trilha está disponível em [https://[grupouniasselvi.github.io](https://steniasantos.github.io/).
+A trilha está disponível em (https://steniasantos.github.io/).
 
 ## Estrutura do Repositório
 
