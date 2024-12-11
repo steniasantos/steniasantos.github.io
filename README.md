@@ -1,8 +1,8 @@
 # trilha-de-dados
 
-Este repositório contém materiais e recursos para as **Trilhas de Aprendizagem** da Vitru Academy. A trilha é organizada em módulos que cobrem desde conceitos básicos até técnicas avançadas de análise de dados.
+Este repositório contém materiais e recursos para a **Trilha de Dados**. A trilha é organizada em módulos que cobrem desde conceitos básicos até técnicas avançadas de análise de dados.
 
-A trilha está disponível em (https://steniasantos.github.io/).
+A trilha está disponível em (https://steniasantos.github.io/trilha-de-dados/).
 
 ## Estrutura do Repositório
 
