@@ -31,6 +31,3 @@ nav:
   - Home: 
     - Introdução: index.md
     - Como se organizar para os estudos: home/como_organizar_estudos.md
-      - A importância da Segurança e Privacidade de dados: alfabetizacao-de-dados/05-governanca-dados/seguranca_dados.md
-    - Conclusão:
-      - Conclusão: alfabetizacao-de-dados/conclusao.md
