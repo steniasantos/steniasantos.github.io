@@ -1,4 +1,4 @@
-# ni-trilha-de-aprendizagem
+# trilha-de-dados
 
 Este repositório contém materiais e recursos para as **Trilhas de Aprendizagem** da Vitru Academy. A trilha é organizada em módulos que cobrem desde conceitos básicos até técnicas avançadas de análise de dados.
 
