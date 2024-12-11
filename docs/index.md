@@ -1,4 +1,5 @@
-Ambiente de Trilhas de Aprendizado para Dados
+# Ambiente de Trilhas de Aprendizado para Dados - Vitru Educação
+
 Bem-vindo ao Ambiente de Trilha de Aprendizado em Dados!
 
 Neste ambiente de aprendizado, você encontrará duas trilhas essenciais para seu desenvolvimento profissional em dados: Business Intelligence e Alfabetização de Dados. Cada trilha foi cuidadosamente planejada para oferecer a você uma experiência completa e prática, desde a compreensão de conceitos fundamentais até o uso de ferramentas avançadas.
