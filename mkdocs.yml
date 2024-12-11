@@ -17,13 +17,13 @@ theme:
     - typeset
     - search
   palette:
-    - scheme: slate
-      primary: deep purple
+    - scheme: default
+      primary: blue
       toggle:
         icon: material/weather-sunny
         name: Modo claro
     - scheme: default
-      primary: deep purple
+      primary: blue
       toggle:
         icon: material/weather-night
         name: Modo noturno
