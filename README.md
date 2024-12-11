@@ -1,10 +1,38 @@
-Ambiente de Trilhas de Aprendizado para Dados
-Bem-vindo ao Ambiente de Trilha de Aprendizado em Dados!
+# ni-trilha-de-aprendizagem
 
-Neste ambiente de aprendizado, você encontrará duas trilhas essenciais para seu desenvolvimento profissional em dados: Business Intelligence e Alfabetização de Dados. Cada trilha foi cuidadosamente planejada para oferecer a você uma experiência completa e prática, desde a compreensão de conceitos fundamentais até o uso de ferramentas avançadas.
+Este repositório contém materiais e recursos para as **Trilhas de Aprendizagem** da Vitru Academy. A trilha é organizada em módulos que cobrem desde conceitos básicos até técnicas avançadas de análise de dados.
 
-Trilha de Aprendizado em Business Intelligence: Este percurso conduz você pelo universo do BI, onde aprenderá a extrair, organizar e analisar dados para suportar decisões estratégicas. Abordaremos desde o SQL e modelagem de dados até a criação de visualizações impactantes no Power BI. Desenvolver essas competências permitirá que você se destaque na análise e na comunicação de insights para diversas áreas de negócio.
+A trilha está disponível em [https://[grupouniasselvi.github.io](https://steniasantos.github.io/).
 
-Trilha de Alfabetização de Dados: Esta trilha é seu guia para entender e adotar uma mentalidade orientada a dados. Aprenda sobre os profissionais de dados, os conceitos de cultura data-driven e as práticas para melhorar a qualidade, segurança e governança de dados. Aqui, você também desenvolverá habilidades para interpretar e utilizar dados de forma estratégica, tornando-se um profissional mais capacitado para o cenário moderno.
+## Estrutura do Repositório
 
-Navegue em cada trilha, aprofunde-se nos temas, explore os recursos e, ao final, você estará mais preparado para atuar com excelência em dados. Vamos juntos nessa jornada!
+    ├── .github                     <- Configurações do GitHub Actions.
+    │   └── workflows               <- Arquivos de configuração do GitHub Actions.
+    │       └── ci.yml              <- Configuração do pipeline de CI. 
+    │
+    ├── docs                        <- Documentação da trilha de aprendizagem.
+    │   ├── home                    <- Página inicial da trilha de aprendizagem.
+    │   ├── alfabetizacao-de-dados  <- Trilha de Alfabetização de Dados.
+    │   └── business-intelligence   <- trilha de Business Intelligence.
+    │
+    ├── .gitignore                  <- Arquivo de configuração do Git para ignorar arquivos/diretórios.
+    │
+    ├── README.md                   <- Documentação do repositório.
+    │
+    ├── requirements.txt            <- Arquivo de dependências do projeto.
+    │
+    └── mkdocs.yml                  <- Arquivo de configuração do MkDocs.
+
+## Como Contribuir
+
+1. Faça o clone local deste repositório: `git clone git@github.com:GrupoUniasselvi/ni-trilha-de-aprendizagem.git`
+2. Crie uma branch para a sua feature com gitflow: `git flow feature start minha-feature`.
+3. Faça as alterações desejadas no projeto.
+4. Realize testes e verifique se tudo está funcionando corretamente.
+5. Finalize a feature com gitflow: `git flow feature finish`.
+6. Push para o repositório remoto: `git push origin develop`.
+7. Abra um pull request e solicite a aprovação.
+
+## Contato
+
+Em caso de dúvidas ou sugestões, entre em contato.
