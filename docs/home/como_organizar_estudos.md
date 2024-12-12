@@ -4,7 +4,7 @@
 Aprofunde-se na programação em Python, a linguagem mais popular para ciência de dados! Aprenda a escrever códigos eficientes e limpos, desenvolvendo algoritmos que facilitam a manipulação e análise de dados. Com Python, você terá a flexibilidade necessária para resolver problemas complexos e inovar em suas soluções.
 Descubra o poder do Python na Análise Exploratória de Dados (EDA)! Aprenda a extrair insights valiosos de conjuntos de dados complexos, utilizando bibliotecas como Pandas e Matplotlib. Com EDA, você se tornará um detetive de dados, revelando padrões ocultos e tendências que podem transformar a tomada de decisões em sua organização.
 
-[![Formação - Python para Ciência de Dados](https://github.com/steniasantos/trilha-de-dados/blob/production/docs/home/Python.PNG)](https://www.linkedin.com/learning/python-para-ciencia-de-dados-formacao-basica)
+[![Formação - Python para Ciência de Dados](https://github.com/steniasantos/trilha-de-dados/raw/production/docs/home/Python.PNG)](https://www.linkedin.com/learning/python-para-ciencia-de-dados-formacao-basica)
 
 **Clique na imagem acima para acessar o curso de Python para Ciência de Dados!**
 
