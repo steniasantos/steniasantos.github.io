@@ -4,7 +4,7 @@ Você está pronto para se tornar um protagonista na era dos dados? A **Trilha d
 
 Imagine-se dominando ferramentas poderosas como Python, SQL e plataformas de Cloud Computing, enquanto aprende a construir pipelines de dados robustos e a implementar práticas de segurança e governança. Cada módulo desta trilha foi elaborado para não apenas fornecer conhecimento técnico, mas também para desenvolver sua capacidade de resolver problemas complexos e tomar decisões informadas.
 
-[![Trilha do Engenheiro de Dados](/docs/MapaMentaED.PNG)]([https://www.mindmeister.com/app/map/3547106699](https://mm.tt/app/map/3547106699?t=t2BLkrlNW8))
+[![Trilha do Engenheiro de Dados](/docs/MapaMentaED.PNG)](https://mm.tt/app/map/3547106699?t=t2BLkrlNW8)
 
 ### O que você vai aprender?
 
