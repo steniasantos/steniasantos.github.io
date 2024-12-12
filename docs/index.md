@@ -1,8 +1,10 @@
-# Introdução à Trilha do Engenheiro de Dados
+# Introdução à Trilha de Engenharia de Dados
 
-Você está pronto para se tornar um protagonista na era dos dados? A **Trilha do Engenheiro de Dados** é a sua porta de entrada para um mundo repleto de oportunidades e inovações. Com a crescente demanda por profissionais qualificados que possam transformar dados em insights valiosos, esta trilha foi cuidadosamente projetada para equipá-lo com as habilidades essenciais que o mercado exige.
+Você está pronto para se tornar um protagonista na era dos dados? A **Trilha de Engenharia de Dados** é a sua porta de entrada para um mundo repleto de oportunidades e inovações. Com a crescente demanda por profissionais qualificados que possam transformar dados em insights valiosos, esta trilha foi cuidadosamente projetada para equipá-lo com as habilidades essenciais que o mercado exige.
 
 Imagine-se dominando ferramentas poderosas como Python, SQL e plataformas de Cloud Computing, enquanto aprende a construir pipelines de dados robustos e a implementar práticas de segurança e governança. Cada módulo desta trilha foi elaborado para não apenas fornecer conhecimento técnico, mas também para desenvolver sua capacidade de resolver problemas complexos e tomar decisões informadas.
+
+[![Trilha do Engenheiro de Dados](https://github.com/steniasantos/docs/MapaMentaED.PNG)](https://www.mindmeister.com/app/map/3547106699)
 
 ### O que você vai aprender?
 
@@ -16,6 +18,6 @@ Imagine-se dominando ferramentas poderosas como Python, SQL e plataformas de Clo
 
 ### Por que escolher esta trilha?
 
-Ao se inscrever na **Trilha do Engenheiro de Dados**, você não apenas adquire habilidades técnicas, mas também se prepara para se destacar em um mercado competitivo. Com a orientação de especialistas e acesso a recursos práticos, você estará pronto para enfrentar os desafios do mundo real e contribuir para a transformação digital das organizações.
+Ao participar da **Trilha de Engenharia de Dados**, você não apenas adquire habilidades técnicas, mas também se prepara para se destacar em um mercado competitivo. Com a orientação de especialistas e acesso a recursos práticos, você estará pronto para enfrentar os desafios do mundo real e contribuir para a transformação digital das organizações.
 
 Não perca a chance de se tornar um profissional requisitado na área de dados. Junte-se a nós e inicie sua jornada rumo ao sucesso como engenheiro de dados!
