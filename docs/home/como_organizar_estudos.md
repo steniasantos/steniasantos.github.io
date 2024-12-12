@@ -16,7 +16,7 @@ Ambiente de estudo adequado: Escolha um local silencioso, organizado e livre de 
 
 Assista ao vídeo abaixo para mais dicas sobre como se organizar para estudar:
 
-<iframe width="560" height="315" src="[https://www.linkedin.com/learning/search?keywords=Engenharia%20de%20dados]" title="Linkedin Learning video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.linkedin.com/learning/introducao-as-competencias-essenciais-para-a-carreira-de-analise-de-dados/engenheiros-de-dados]" title="Linkedin Learning video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Técnicas de Estudo para Potencializar seus Resultados
 
