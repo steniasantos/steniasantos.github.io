@@ -4,6 +4,8 @@
 Aprofunde-se na programação em Python, a linguagem mais popular para ciência de dados! Aprenda a escrever códigos eficientes e limpos, desenvolvendo algoritmos que facilitam a manipulação e análise de dados. Com Python, você terá a flexibilidade necessária para resolver problemas complexos e inovar em suas soluções.
 Descubra o poder do Python na Análise Exploratória de Dados (EDA)! Aprenda a extrair insights valiosos de conjuntos de dados complexos, utilizando bibliotecas como Pandas e Matplotlib. Com EDA, você se tornará um detetive de dados, revelando padrões ocultos e tendências que podem transformar a tomada de decisões em sua organização.
 
+[[Formação - Python para Ciência de Dados](https://www.linkedin.com/learning/python-para-ciencia-de-dados-formacao-basica)]
+
 ## ETL (Extração, Transformação e Carga)
 Mergulhe no processo de ETL e aprenda a extrair, transformar e carregar dados de diferentes fontes. Compreender ETL é essencial para qualquer engenheiro de dados, pois permite que você integre dados de forma eficaz, preparando-os para análise e tomada de decisões.
 
@@ -27,6 +29,8 @@ Explore o mundo da computação em nuvem e descubra como as plataformas como AWS
 
 ## Big Data
 Desvende os segredos do Big Data! Compreenda suas características, como volume, variedade e velocidade, e aprenda a usar ferramentas como Hadoop e Spark para processar e analisar grandes conjuntos de dados. Este conhecimento é crucial para lidar com os desafios e oportunidades que o Big Data apresenta.
+
+
 
 ## Segurança de Dados
 A segurança de dados é mais importante do que nunca! Aprenda as melhores práticas para proteger informações sensíveis e garantir a conformidade com regulamentações. Com esse conhecimento, você se tornará um defensor dos dados, ajudando sua organização a mitigar riscos e proteger ativos valiosos.
