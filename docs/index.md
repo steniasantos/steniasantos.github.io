@@ -19,9 +19,9 @@ MLOps é a prática de unificar o desenvolvimento e a operação de modelos de a
 
 ## Papéis dos Profissionais  
 
-### Engenheiro de Dados  
+### Engenheiro de Dados  https://www.mindmeister.com/app/map/3547106699
 - **Responsabilidades**: Construir e manter a infraestrutura de dados.  
-- **Habilidades**: SQL, ETL, programação em Python ou Scala.  
+- **Habilidades**: Python - EDA e Programação, Git e GitHub, R, SQL, Banco de Dados, Processamento de Dados  
 
 ### Analista de Dados  
 - **Responsabilidades**: Analisar dados e gerar relatórios.  
