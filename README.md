@@ -25,7 +25,7 @@ A trilha está disponível em (https://steniasantos.github.io/trilha-de-dados/).
 
 ## Como Contribuir
 
-1. Faça o clone local deste repositório: `git clone git@github.com:GrupoUniasselvi/ni-trilha-de-aprendizagem.git`
+1. Faça o clone local deste repositório: `git clone git@github.com:steniasantos/trilha-de-dados.git)`
 2. Crie uma branch para a sua feature com gitflow: `git flow feature start minha-feature`.
 3. Faça as alterações desejadas no projeto.
 4. Realize testes e verifique se tudo está funcionando corretamente.
