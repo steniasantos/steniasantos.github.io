@@ -1,37 +1,37 @@
-# Como se organizar para os seus estudos
+# Trilha do Engenheiro de Dados (Hard Skills)
 
-Se você já se perguntou como se organizar para estudar, se é melhor estudar todos os dias um pouco ou focar em dias específicos, e qual a melhor técnica para aprender muita coisa de uma só vez, você está no lugar certo! Vamos abordar essas questões essenciais para otimizar seu tempo e potencializar seu aprendizado.
+## Python: EDA
+Descubra o poder do Python na Análise Exploratória de Dados (EDA)! Aprenda a extrair insights valiosos de conjuntos de dados complexos, utilizando bibliotecas como Pandas e Matplotlib. Com EDA, você se tornará um detetive de dados, revelando padrões ocultos e tendências que podem transformar a tomada de decisões em sua organização.
 
-Organizar os estudos de forma eficiente é fundamental para manter a produtividade e garantir o progresso contínuo. Confira abaixo algumas estratégias e recursos para te ajudar nesse processo:
+## Git e GitHub
+Domine o controle de versão com Git e GitHub! Essas ferramentas são essenciais para qualquer engenheiro de dados que deseja colaborar de forma eficaz em projetos. Aprenda a gerenciar seu código, rastrear alterações e trabalhar em equipe, garantindo que suas contribuições sejam sempre integradas e organizadas.
 
-## Como se Organizar para Estudar: Dicas Gerais
+## Python: Programação
+Aprofunde-se na programação em Python, a linguagem mais popular para ciência de dados! Aprenda a escrever códigos eficientes e limpos, desenvolvendo algoritmos que facilitam a manipulação e análise de dados. Com Python, você terá a flexibilidade necessária para resolver problemas complexos e inovar em suas soluções.
 
-Defina um cronograma: Estabeleça horários fixos para o estudo e distribua suas disciplinas ou temas ao longo da semana. O ideal é equilibrar a carga de trabalho para evitar sobrecarga em um único dia.
+## R
+Explore o mundo da análise estatística com R! Esta linguagem é uma poderosa aliada para engenheiros de dados que desejam realizar análises profundas e visualizações impactantes. Aprenda a usar pacotes como ggplot2 e dplyr para transformar dados em histórias visuais que comunicam insights de forma clara e eficaz.
 
-Estudo regular: Em vez de acumular conteúdo para estudar tudo de uma vez, adote a prática de revisar e estudar um pouco todos os dias. Isso melhora a retenção de informações a longo prazo.
+## SQL
+Domine o SQL, a linguagem padrão para gerenciamento de bancos de dados! Aprenda a consultar, manipular e gerenciar dados de forma eficiente. Com SQL, você será capaz de extrair informações cruciais de grandes volumes de dados, tornando-se um recurso indispensável para sua equipe.
 
-Foco em metas de curto e longo prazo: Divida suas metas de estudo em objetivos menores e mais alcançáveis. Isso vai te ajudar a manter o foco e perceber o progresso ao longo do tempo.
+## Banco de Dados
+Entenda os fundamentos dos bancos de dados e como eles armazenam e organizam informações. Aprenda sobre bancos de dados relacionais e não relacionais, e como escolher a melhor solução para suas necessidades. Com esse conhecimento, você garantirá que os dados estejam sempre acessíveis e prontos para análise.
 
-Ambiente de estudo adequado: Escolha um local silencioso, organizado e livre de distrações para maximizar sua concentração.
+## Armazenamento de Dados
+Mergulhe nas diferentes abordagens de armazenamento de dados, incluindo Data Lakes e Data Warehouses. Aprenda a estruturar e gerenciar dados de forma que eles sejam facilmente acessíveis e utilizáveis. Compreender essas tecnologias é fundamental para garantir que sua organização possa escalar e inovar.
 
-Assista ao vídeo abaixo para mais dicas sobre como se organizar para estudar:
+## Cloud Computing
+Explore o mundo da computação em nuvem e descubra como as plataformas como AWS, Google Cloud e Azure estão revolucionando o armazenamento e processamento de dados. Aprenda a implementar soluções escaláveis e seguras que permitem que sua organização aproveite ao máximo seus dados.
 
-<a href="https://www.linkedin.com/learning/introducao-as-competencias-essenciais-para-a-carreira-de-analise-de-dados/engenheiros-de-dados" target="_blank">
-    Acesse o curso de Engenharia de Dados no LinkedIn Learning
-</a>
+## Big Data
+Desvende os segredos do Big Data! Compreenda suas características, como volume, variedade e velocidade, e aprenda a usar ferramentas como Hadoop e Spark para processar e analisar grandes conjuntos de dados. Este conhecimento é crucial para lidar com os desafios e oportunidades que o Big Data apresenta.
 
-## Técnicas de Estudo para Potencializar seus Resultados
+## Segurança de Dados
+A segurança de dados é mais importante do que nunca! Aprenda as melhores práticas para proteger informações sensíveis e garantir a conformidade com regulamentações. Com esse conhecimento, você se tornará um defensor dos dados, ajudando sua organização a mitigar riscos e proteger ativos valiosos.
 
-Além de se organizar, é importante adotar técnicas que vão te ajudar a estudar de maneira mais eficiente. Aqui estão três técnicas poderosas para melhorar seu desempenho nos estudos:
+## Governança de Dados
+Entenda a importância da governança de dados e como ela garante a qualidade, segurança e uso responsável das informações. Aprenda a implementar políticas e processos que promovam a integridade dos dados, tornando-se um líder na gestão de ativos de dados em sua organização.
 
-1. Técnica Pomodoro: Estude em blocos de tempo (geralmente 25 minutos), seguidos de uma pequena pausa. Isso ajuda a manter o foco e evita a fadiga mental.
-
-2. Mapas mentais: Organize suas ideias e informações visivelmente através de mapas mentais. Essa técnica melhora a compreensão e a retenção de conceitos complexos.
-
-3. Revisão espaçada: Em vez de revisar tudo de uma vez, revise os conteúdos em intervalos crescentes de tempo. Isso reforça a memória de longo prazo.
-
-Assista ao vídeo abaixo para aprender mais sobre essas e outras técnicas de estudo:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/posTc56basM?si=VnJ4FNBl5xU5Z0Lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Agora que você sabe como se organizar melhor, é hora de colocar em prática e seguir em frente com confiança! Continue acompanhando nossa trilha de aprendizado e desbloqueie todo o seu potencial. Vamos juntos até o fim!
+## ETL (Extração, Transformação e Carga)
+Mergulhe no processo de ETL e aprenda a extrair, transformar e carregar dados de diferentes fontes. Compreender ETL é essencial para qualquer engenheiro de dados, pois permite que você integre dados de forma eficaz, preparando-os para análise e tomada de decisões.
